@@ -1,0 +1,28 @@
+{
+  "name": "mean",
+  "version": "0.0.3",
+  "description": "My First MEAN application",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "Angular",
+    "Node.js"
+  ],
+  "author": "Carrie",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "connect": "^3.6.6",
+    "express": "4.14.0",
+    "generator-express": "^2.17.0",
+    "grunt": "latest",
+    "package.json": "^2.0.1"
+  }
+}
